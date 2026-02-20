@@ -20,4 +20,4 @@ Run the file:
 todo_gui.py
 
 ## 👨‍💻 Author
-Your Name
+Kumar Sonu Raja 
